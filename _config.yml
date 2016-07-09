@@ -1,14 +1,14 @@
-layout_spectrum: 0.9320785333402455
-typography_spectrum: 0.41775445733219385
+layout_spectrum: 0.16168597736395895
+typography_spectrum: 0.2516380497254431
 color:
-  brandStrength: 0.1062475023791194
-  lightness: 0.7474075702484697
-  saturation: 0.7595096281729639
-  rhythmicContrast: 0.10287242103368044
+  brandStrength: 0.9818976758979261
+  lightness: 0.5065675708465278
+  saturation: 0.5700002040248364
+  rhythmicContrast: 0.09630468813702464
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: 'subliminate '
