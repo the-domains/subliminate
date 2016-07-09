@@ -27,10 +27,10 @@ app_links: []
 isBasedOnUrl: >-
   http://freakonomics.com/podcast/new-freakonomics-radio-podcast-the-suicide-paradox/
 title: 'New Freakonomics Radio Podcast: "The Suicide Paradox" - Freakonomics'
-datePublished: '2016-07-09T20:17:15.829Z'
-dateModified: '2016-07-09T20:15:56.016Z'
-starred: false
+datePublished: '2016-07-09T21:37:14.314Z'
+dateModified: '2016-07-09T21:37:13.744Z'
 sourcePath: _posts/2016-07-09-new-freakonomics-radio-podcast-the-suicide-paradox-frea.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
