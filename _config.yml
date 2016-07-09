@@ -1,9 +1,22 @@
-layout_spectrum: 0.16168597736395895
-typography_spectrum: 0.2516380497254431
+title: >-
+  Here lies S.M. Kahn, M.D. "I abandoned Judaism for medicine, and medicine
+  abandoned me."
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5286738
 color:
-  brandStrength: 0.9818976758979261
-  lightness: 0.5065675708465278
   saturation: 0.5700002040248364
+  brandStrength: 0.9818976758979261
   rhythmicContrast: 0.09630468813702464
   brandColors:
     - '#000000'
@@ -11,7 +24,6 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+  lightness: 0.5065675708465278
+layout_spectrum: 0.161685977363959
 name: 'subliminate '
-title: >-
-  Here lies S.M. Kahn, M.D. "I abandoned Judaism for medicine, and medicine
-  abandoned me."
