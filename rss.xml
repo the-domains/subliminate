@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[subliminate ]]></title>
-        <description><![CDATA[subliminate ]]></description>
+        <title><![CDATA[Here lies S.M. Kahn, M.D. "I abandoned Judaism for medicine, and medicine abandoned me."]]></title>
+        <description><![CDATA[Here lies S.M. Kahn, M.D. "I abandoned Judaism for medicine, and medicine abandoned me."]]></description>
         <link>https://thegrid.ai/subliminate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 21:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 23:06:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/subliminate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9864a952-2383-4627-a43b-a7c4ff304c11.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9864a952-2383-4627-a43b-a7c4ff304c11.jpg</link>
+            <guid isPermaLink="false">f5f1d4a3-fe4c-4800-8fce-f60866fe6eb8</guid>
+            <pubDate>Sat, 09 Jul 2016 23:06:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d50a17f-ebb2-431d-93d0-cb2f282983a0.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56918d15-a331-4b36-85af-96cf78c6534f.jpg">]]></description>
             <link>https://thegrid.ai/subliminate/ebd5e5c5-3823-4645-8765-15619e9bc4b4/index.html</link>
             <guid isPermaLink="false">ebd5e5c5-3823-4645-8765-15619e9bc4b4</guid>
-            <pubDate>Sat, 09 Jul 2016 21:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f99d849-12a9-4ef5-a895-33ecadf8d58a.jpg">]]></description>
-            <link>https://thegrid.ai/subliminate/6870d62d-5256-4dcf-8d77-c8e52352af46/index.html</link>
-            <guid isPermaLink="false">6870d62d-5256-4dcf-8d77-c8e52352af46</guid>
             <pubDate>Sat, 09 Jul 2016 21:30:20 GMT</pubDate>
         </item>
     </channel>
